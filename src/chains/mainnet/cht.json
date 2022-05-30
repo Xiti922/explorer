@@ -7,13 +7,13 @@
     "coin_type": "118",
     "min_tx_fee": "200",
     "assets": [{
-        "base": "ucht",
+        "base": "cht",
         "symbol": "CHT",
         "exponent": "6",
         "coingecko_id": "", 
         "logo": "/logos/chronic-token.jpg"
     },{
-        "base": "ucgas",
+        "base": "cgas",
         "symbol": "CGAS",
         "exponent": "6",
         "coingecko_id": "", 
