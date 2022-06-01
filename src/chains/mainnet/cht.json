@@ -3,7 +3,7 @@
     "api": ["https://chtd-api.skynetvalidators.com"],
     "rpc": ["https://rpc-chronic.zenchainlabs.io/"],
     "snapshot_provider": "",
-    "sdk_version": "0.41.3",
+    "sdk_version": "0.44.5",
     "coin_type": "118",
     "min_tx_fee": "200",
     "assets": [{
