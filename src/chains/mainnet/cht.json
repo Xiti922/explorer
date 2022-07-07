@@ -1,11 +1,11 @@
 {
     "chain_name": "chronic-token",
-    "api": ["https://chtd-api.skynetvalidators.com"],
+    "api": ["https://api-chronic.zenchainlabs.io/"],
     "rpc": ["https://rpc-chronic.zenchainlabs.io/"],
     "snapshot_provider": "",
-    "sdk_version": "0.44.5",
+    "sdk_version": "0.45.4",
     "coin_type": "118",
-    "min_tx_fee": "200",
+    "min_tx_fee": "200ucgas",
     "assets": [{
         "base": "ucht",
         "symbol": "CHT",
