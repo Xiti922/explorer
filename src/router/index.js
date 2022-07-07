@@ -134,20 +134,6 @@ const router = new VueRouter({
       },
     },
     {
-      path: '/:chain/statesync',
-      name: 'statesync',
-      component: () => import('@/views/StateSync.vue'),
-      meta: {
-        pageTitle: 'State Sync',
-        breadcrumb: [
-          {
-            text: 'State Synchronization',
-            active: true,
-          },
-        ],
-      },
-    },
-    {
       path: '/:chain/uptime',
       name: 'uptime',
       component: () => import('@/views/Uptime.vue'),
