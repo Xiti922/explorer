@@ -65,14 +65,14 @@
     }
   }
   .header-navbar {
-    background: $white;
+    background: $black;
     z-index: 999 !important;
     line-height: 1;
     min-height: auto;
     // Navbar- Brand Center - Logo
     &.navbar-horizontal.floating-nav {
       width: calc(100vw - (100vw - 100%) - calc(#{$content-padding} * 2));
-      background: $white;
+      background: $black;
     }
     .navbar-container {
       border-radius: $border-radius;
