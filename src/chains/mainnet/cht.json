@@ -1,7 +1,7 @@
 {
     "chain_name": "chronic-token",
-    "api": ["https://api-chronic.zenchainlabs.io/"],
-    "rpc": ["https://rpc-chronic.zenchainlabs.io/"],
+    "api": ["164.92.114.47:1317"],
+    "rpc": ["164.92.114.47:26657"],
     "snapshot_provider": "",
     "sdk_version": "0.45.4",
     "coin_type": "118",
